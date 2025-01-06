@@ -1,3 +1,8 @@
+#TASK 3
+#2)a=[1,2,3,4,5,6,7,8].Find how many odd number and how many even number in the list?
+
+
+
 a = 1,2,3,4,5,6,7,8
 d1 = 0
 d2 = 0
